@@ -1,14 +1,14 @@
 {
-	"name": "studynotion-backend",
+	"name": "sparks-backend",
 	"version": "1.0.0",
-	"description": "studynotion-backend",
+	"description": "sparks-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"studynotion-backend"
+		"sparks-backend"
 	],
 	"author": "Saikat Mukherjee",
 	"license": "ISC",

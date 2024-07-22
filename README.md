@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# sparks Edtech Project
