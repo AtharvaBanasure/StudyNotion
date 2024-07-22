@@ -4,7 +4,7 @@ import { BsChevronDown } from "react-icons/bs"
 import { useSelector } from "react-redux"
 import { Link, matchPath, useLocation } from "react-router-dom"
 
-import logo from "../../assets/Logo/Purple_Modern_Start-Up_Logo__1_-removebg-preview.png"
+import logo from "../../assets/Logo/Logo-Full-Light.png"
 import { NavbarLinks } from "../../data/navbar-links"
 import { apiConnector } from "../../services/apiConnector"
 import { categories } from "../../services/apis"
@@ -51,7 +51,7 @@ function Navbar() {
       setLoading(false)
     })()
   }, [])
-
+  
   // console.log("sub links", subLinks)
 
   const matchRoute = (route) => {
