@@ -10,7 +10,7 @@
 	"keywords": [
 		"sparks-backend"
 	],
-	"author": "Saikat Mukherjee",
+	"author": "atharva banasure",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.0",
